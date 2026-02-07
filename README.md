@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hello! I am a software developer with a strong focus on building intelligent applications and user-centric web experiences. My work is driven by a curiosity for how complex algorithms can be translated into practical, high-impact digital solutions. My GitHub profile showcases a diverse range of projects that reflect my technical versatility and commitment to continuous learning.<br><br>In the realm of Artificial Intelligence, I have developed two repositories focused on AI models, exploring the potential of machine learning to solve real-world problems. Complementing my back-end interests, I have built two front-end web development projects that emphasize clean design and seamless user interaction. One of my key projects is a specialized Voice Assistant Project (VAP), which highlights my experience in creating interactive, automated systems.<br><br>Beyond application building, I am dedicated to mastering the fundamentals of computer science. I maintain a repository for LeetCode challenges, where I consistently refine my skills in data structures and algorithms. I am always looking for opportunities to collaborate on innovative projects and expand my technical expertise. Let's connect and build something amazing together!
+# Hi there! I'm Krushna 👋
+
+### 🛠️ What I Do
+```python
+class Developer:
+    def __init__(self):
+        self.focus = ["Computer Science", "AIML"]
+        self.tools = ["Python", "JS", "PostgreSQL", "Pytest"]
+        self.creative = ["After Effects", "VFX", "AMV Editing"]
+        self.current_goal = "Perfecting Deepfake Detection"
+🚀 Projects & Progress
+🛡️ Building: Trinetra — an AI solution for a safer digital world.
+
+⚡ Solving: 100+ LeetCode problems and counting.
+
+🎬 Editing: Visual storyteller using After Effects (Transitions, Text Animations, Shakes)
 
 
 ## 🌐 Socials:
