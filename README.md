@@ -9,6 +9,7 @@ class Developer:
         self.tools = ["Python", "JS", "PostgreSQL", "Pytest"]
         self.creative = ["After Effects", "VFX", "AMV Editing"]
         self.current_goal = "Perfecting Deepfake Detection"
+```
 🚀 Projects & Progress
 🛡️ Building: Trinetra — an AI solution for a safer digital world.
 
