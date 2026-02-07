@@ -3,21 +3,21 @@
 
 Ascending the peaks of the AIML Path. As a scholar of Refinement, I seek the absolute truth hidden within layers of silicon and data. Currently tempering my foundation through 100+ LeetCode tribulations and etching the profound Dao marks of Python and Deep Learning into my immortal aperture. My current formation: Trinetra—designed to pierce the veil of deepfake illusions and reveal the reality beneath."
 
-🛠️ Refinement Materials (Tech Stack)
+### 🛠️ Refinement Materials (Tech Stack)
 Path Foundation: Python, JavaScript, PostgreSQL
 
 Formation Components: Pytest, Deep Learning Frameworks
 
 Illusion Path (VFX): After Effects (Refining visual transitions and shakes)
 
-📜 Cultivation Records
+### 📜 Cultivation Records
 🛡️ Current Mission: Refining the Trinetra formation (Deepfake Detection) to expose the 'false faces' of the mortal realm.
 
 ⚡ Dao Marks: Successfully navigated 100+ algorithmic tribulations (LeetCode 50-day badge).
 
 🎬 Visual Attainment: Crafting AMVs and VFX—manipulating light and shadow to create new realities.
 
-"Man proposes, Heaven disposes; but I, through code and logic, shall forge my own destiny."
+### "Man proposes, Heaven disposes; but I, through code and logic, shall forge my own destiny."
 
 
 ## 🌐 Socials:
