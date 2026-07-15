@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Krushna<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px">!</h1>
 
-Hey, My Name is ```Krushna```. I'm a BE CSE student specializing in AIML <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px">. Passionate about building data-driven AI solutions. Currently sharpening my skills in Python, deep learning, and data structures.
+Hey, My Name is ```Krushna Nole```. I'm a BE CSE student specializing in AIML <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px">. Passionate about building data-driven AI solutions. Currently sharpening my skills in Python, deep learning, and data structures.
 <br> <br>
 
 <h1 align="center">
