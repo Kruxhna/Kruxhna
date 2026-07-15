@@ -174,21 +174,6 @@ kushnanole433@gmail.com
 
   </h1>
 
-<h1><img src="https://github.com/user-attachments/assets/20535d47-cf0b-4ab2-bed6-2bd3df465308" width="32px"> You can help me by Donating:</h1>
-
-<h1 align="center">
-
-  <!-- Buy Me a Coffee -->
-  <a href="https://buymeacoffee.com/Kruxhna" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a0e89abe-79a2-453a-bc9d-b7a11c0958e5" alt="Buy Me a Coffee" width="100" />
-
-
-  <!-- Patreon -->
-  <a href="https://patreon.com/Kruxhna" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support me on Patreon" />
-  </a>
-</h1>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kruxhna/Kruxhna/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kruxhna/Kruxhna/output/github-snake.svg" />
