@@ -24,34 +24,34 @@ Hey, My Name is ```Krushna```. I'm a BE CSE student specializing in AIML <img sr
 📫 Reach out to me: [kruxhna](mailto:krushnanole433@gmail.com)
 
 ``` css
-kruxhna@gmail.com
+kushnanole433@gmail.com
 ```
 
 
 <h1><img src="https://github.com/user-attachments/assets/fbd828ad-134f-4357-b2eb-96c4d46d5f58" width="30px"> Socials:</h1>
 
 <div align="center">
-<a href="https://linkedin.com/in/Kruxhna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kruxhna" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30141912/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6481bb4a-d349-4877-a68f-e06cb9d938d9" alt="Kruxhna" height="35" width="40" /></a>
-<a href="https://dev.to/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ba8ff24b-4b45-4fa3-947a-974ae4a4724c" alt="Kruxhna" height="40" width="40" /></a>
-<a href="https://Kruxhna.medium.com/" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="Kruxhna" height="35" width="40" /></a>
-<a href="https://hashnode.com/@Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2d166ee5-82a3-4126-a792-19971aa9cf5d" alt="Kruxhna" height="37" width="37" /></a>
-<a href="https://youtube.com/@Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f92db1c0-cda8-4743-b503-74a6046760d5" alt="Kruxhna" height="31" width="36" /></a>
+<a href="https://www.linkedin.com/in/krushna-nole/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kruxhna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/32940391/krushna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6481bb4a-d349-4877-a68f-e06cb9d938d9" alt="Kruxhna" height="35" width="40" /></a>
+<a href="https://dev.to/kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ba8ff24b-4b45-4fa3-947a-974ae4a4724c" alt="Kruxhna" height="40" width="40" /></a>
+<a href="https://medium.com/@nolekrushna85" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="Kruxhna" height="35" width="40" /></a>
+<a href="https://hashnode.com/@krxh" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2d166ee5-82a3-4126-a792-19971aa9cf5d" alt="Kruxhna" height="37" width="37" /></a>
+<a href="https://www.youtube.com/channel/UC9RsGfbh55_2MzCSs9DXJdw" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f92db1c0-cda8-4743-b503-74a6046760d5" alt="Kruxhna" height="31" width="36" /></a>
 <a href="https://codepen.io/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/cd0a5b6d-d49e-4692-9d2b-64c707a1da43" alt="Kruxhna" height="35" width="30" /></a>
-<a href="https://www.behance.net/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/50b49a31-c664-4eab-b5fe-a7851bb6fb56" alt="Kruxhna" height="35" width="35" /></a>
-<a href="https://leetcode.com/u/Kruxhna/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1c1379a6-bd9f-408b-8022-150feba20f0d" alt="Kruxhna" height="40" width="45" /></a>
-<a href="https://www.codechef.com/users/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/df7ff386-c528-474c-b4f5-7773354f5721" alt="Kruxhna" height="40" width="45" /></a>
-<a href="https://www.hackerrank.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/be572503-603a-4252-9bf1-4248bb1951d5" alt="Kruxhna" height="42" width="42" /></a>
-<a href="https://kaggle.com/Kruxhna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kruxhna" height="30" width="40" /></a>
+<a href="https://www.behance.net/b-11krushnanole" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/50b49a31-c664-4eab-b5fe-a7851bb6fb56" alt="Kruxhna" height="35" width="35" /></a>
+<a href="https://leetcode.com/u/kruxhna/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1c1379a6-bd9f-408b-8022-150feba20f0d" alt="Kruxhna" height="40" width="45" /></a>
+<a href="https://www.codechef.com/users/kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/df7ff386-c528-474c-b4f5-7773354f5721" alt="Kruxhna" height="40" width="45" /></a>
+<a href="https://www.hackerrank.com/profile/krushnanole433" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/be572503-603a-4252-9bf1-4248bb1951d5" alt="Kruxhna" height="42" width="42" /></a>
+<a href="https://www.kaggle.com/krushnanole" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kruxhna" height="30" width="40" /></a>
 <a href="https://dribbble.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2714b8cb-9f27-48bf-a91f-e0873f6f1544" alt="Kruxhna" height="40" width="40" /></a>
 
-<a href="https://x.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/5941e48d-c5fe-44c6-a1e0-58555a66f548" alt="Kruxhna" height="40" width="40" /></a>
-<a href="https://instagram.com/Kruxhna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kruxhna" height="30" width="40" /></a>
-<a href="https://facebook.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/001b50ee-6741-4dae-b1cb-89d4bf8deadc" alt="Kruxhna" height="45" width="50" /></a>
-<a href="https://reddit.com/user/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48b8da98-74e0-4e90-b8c3-117f7894e72c" alt="Kruxhna" height="30" width="30" /></a>
-<a href="https://discord.com/users/1271371075799744535" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a52ee56a-0ae1-4a30-82ef-19797844f46e" alt="Kruxhna" height="50" width="55" /></a>
-<a href="https://mastodon.social/@Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/7cf78cfd-bd77-40e6-9cfe-96b9365e2cc4" alt="Kruxhna" height="30" width="35" /></a>
-<a href="https://bsky.app/profile/Kruxhna.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a56711cb-edd8-40a4-a7e8-1d1868faaf96" alt="Kruxhna" height="33" width="38" /></a>
+<a href="https://x.com/KrushnaNole" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/5941e48d-c5fe-44c6-a1e0-58555a66f548" alt="Kruxhna" height="40" width="40" /></a>
+<a href="https://www.instagram.com/ix_krushna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kruxhna" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100068812224028" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/001b50ee-6741-4dae-b1cb-89d4bf8deadc" alt="Kruxhna" height="45" width="50" /></a>
+<a href="https://www.reddit.com/user/Kira-162007/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48b8da98-74e0-4e90-b8c3-117f7894e72c" alt="Kruxhna" height="30" width="30" /></a>
+<a href="https://discord.com/users/1437348441989709894" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a52ee56a-0ae1-4a30-82ef-19797844f46e" alt="Kruxhna" height="50" width="55" /></a>
+<a href="https://mastodon.social/@krxh" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/7cf78cfd-bd77-40e6-9cfe-96b9365e2cc4" alt="Kruxhna" height="30" width="35" /></a>
+<a href="https://bsky.app/profile/krxh.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a56711cb-edd8-40a4-a7e8-1d1868faaf96" alt="Kruxhna" height="33" width="38" /></a>
 </div>
 
 <h1><img src="https://github.com/user-attachments/assets/b3b64835-04c7-4e1b-ac12-d5eb0d6a47be" width="32px"> Tech Stack:</h1>

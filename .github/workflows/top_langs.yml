@@ -1,6 +1,9 @@
-﻿name: Top Language
+name: Top Language
 
 on:
+  push:
+    branches:
+      - "main"
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
