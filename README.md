@@ -5,7 +5,7 @@ Hey, My Name is ```Krushna```. I'm a BE CSE student specializing in AIML <img sr
 
 <h1 align="center">
   
-  ![Image](https://github.com/user-attachments/assets/0b1f4b3d-e639-4b52-b184-fce0113c9a03)
+  ![Image]("D:\Krushna\Jupyter\Readme\Kruxhna\From Klickpin.com- 9 Gorgeous old money outfit ideas that help you create a polished look with very simple and affordable details for women who lo.gif")
 </h1>
 
 <h1><img src="https://github.com/user-attachments/assets/8298354a-bf7b-47b9-8029-d0539b190553" width="32px"> About Me:</h1>
@@ -56,7 +56,7 @@ kushnanole433@gmail.com
 
 <h1><img src="https://github.com/user-attachments/assets/b3b64835-04c7-4e1b-ac12-d5eb0d6a47be" width="32px"> Tech Stack:</h1>
 
-<img align='right' src="https://github.com/user-attachments/assets/93db16fb-a070-423d-849b-c72db740dc95" width="350">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjU0ZTZ4d20zMjYwOHp6OW04ano4dTJ3ZTY4bXV5aHp3cGJrcjZlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif" width="350">
 <br>
 
 
