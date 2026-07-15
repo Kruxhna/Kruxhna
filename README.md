@@ -5,7 +5,7 @@ Hey, My Name is ```Krushna Nole```. I'm a BE CSE student specializing in AIML <i
 
 <h1 align="center">
   
-  ![Image]("D:\Krushna\Jupyter\Readme\Kruxhna\From Klickpin.com- 9 Gorgeous old money outfit ideas that help you create a polished look with very simple and affordable details for women who lo.gif")
+  ![Image](./header.gif)
 </h1>
 
 <h1><img src="https://github.com/user-attachments/assets/8298354a-bf7b-47b9-8029-d0539b190553" width="32px"> About Me:</h1>
