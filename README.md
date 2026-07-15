@@ -1,6 +1,6 @@
-<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Sathya Sai<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px">!</h1>
+<h1 align="center">Hey <img src="https://github.com/user-attachments/assets/0b415b97-79bd-48e7-b00f-1e5f21b64637" width="30px">, I'm Krushna<img src="https://github.com/user-attachments/assets/1ddd7bda-a1f8-4238-8d7b-3e43cadf7719" width="40px">!</h1>
 
-Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt. Institute of Electronics  <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px"> . I am a Tech Enthusiast. Looking forward to learning new skills and add them to the list.
+Hey, My Name is ```Krushna```. I'm a BE CSE student specializing in AIML <img src="https://github.com/user-attachments/assets/adf9a8cc-fd74-4a60-977e-11d0ac53cf6f" width="30px">. Passionate about building data-driven AI solutions. Currently sharpening my skills in Python, deep learning, and data structures.
 <br> <br>
 
 <h1 align="center">
@@ -9,49 +9,49 @@ Hey, My Name is ```Yejju Sathya Sai```, I'm a third year AI & ML student at Govt
 </h1>
 
 <h1><img src="https://github.com/user-attachments/assets/8298354a-bf7b-47b9-8029-d0539b190553" width="32px"> About Me:</h1>
-🚀 I’m a Linux user, AI & ML learner, and open-source contributor. 
+🚀 I'm a BE CSE student specializing in AIML and a passionate tech enthusiast.
 <img align='right' src="https://github.com/user-attachments/assets/39d3f182-59c8-4b46-8333-7c67b47e6b3b" width="225">
-<br>🔍 Currently exploring web development languages, and AI & ML Projects.
-<br>💻 I love building innovative projects, contributing to open-source, and exploring new technologies. 
-<br>🌐 I’m working on automation scripts, and AI-powered applications and constantly updating my skills. 
-<br>📚 Passionate about AI & ML, Data Science and developing free tools to help others get started with technological Solutions.
-<br>💡 Let’s connect, collaborate, and create something amazing together!
+<br>🔍 Currently sharpening my skills in Python, Deep Learning, and Data Structures.
+<br>💻 I love building data-driven AI solutions and exploring new technologies.
+<br>🌐 I'm working on ML models, AI-powered applications and constantly updating my skills.
+<br>📚 Passionate about Artificial Intelligence, Data Science, and solving real-world problems.
+<br>💡 Let's connect, collaborate, and create something amazing together!
 
 <br>
 <br>
 
 
-📫 Reach out to me: [ysathyasai.dev](mailto:ysathyasai.dev@gmail.com)
+📫 Reach out to me: [kruxhna](mailto:krushnanole433@gmail.com)
 
 ``` css
-ysathyasai.dev@gmail.com
+kruxhna@gmail.com
 ```
 
 
 <h1><img src="https://github.com/user-attachments/assets/fbd828ad-134f-4357-b2eb-96c4d46d5f58" width="30px"> Socials:</h1>
 
 <div align="center">
-<a href="https://linkedin.com/in/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/30141912/yejju-sathya-sai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6481bb4a-d349-4877-a68f-e06cb9d938d9" alt="ysathyasai" height="35" width="40" /></a>
-<a href="https://dev.to/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ba8ff24b-4b45-4fa3-947a-974ae4a4724c" alt="ysathyasai" height="40" width="40" /></a>
-<a href="https://ysathyasai.medium.com/" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="ysathyasai" height="35" width="40" /></a>
-<a href="https://hashnode.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2d166ee5-82a3-4126-a792-19971aa9cf5d" alt="ysathyasai" height="37" width="37" /></a>
-<a href="https://youtube.com/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f92db1c0-cda8-4743-b503-74a6046760d5" alt="ysathyasai" height="31" width="36" /></a>
-<a href="https://codepen.io/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/cd0a5b6d-d49e-4692-9d2b-64c707a1da43" alt="ysathyasai" height="35" width="30" /></a>
-<a href="https://www.behance.net/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/50b49a31-c664-4eab-b5fe-a7851bb6fb56" alt="ysathyasai" height="35" width="35" /></a>
-<a href="https://leetcode.com/u/ysathyasai/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1c1379a6-bd9f-408b-8022-150feba20f0d" alt="ysathyasai" height="40" width="45" /></a>
-<a href="https://www.codechef.com/users/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/df7ff386-c528-474c-b4f5-7773354f5721" alt="ysathyasai" height="40" width="45" /></a>
-<a href="https://www.hackerrank.com/yejjusatyasai201" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/be572503-603a-4252-9bf1-4248bb1951d5" alt="ysathyasai" height="42" width="42" /></a>
-<a href="https://kaggle.com/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://dribbble.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2714b8cb-9f27-48bf-a91f-e0873f6f1544" alt="ysathyasai" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/Kruxhna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kruxhna" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/30141912/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/6481bb4a-d349-4877-a68f-e06cb9d938d9" alt="Kruxhna" height="35" width="40" /></a>
+<a href="https://dev.to/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/ba8ff24b-4b45-4fa3-947a-974ae4a4724c" alt="Kruxhna" height="40" width="40" /></a>
+<a href="https://Kruxhna.medium.com/" target="_blank"><img align="center" src="https://github.com/Srish-ty/Srish-ty/assets/68679980/4971616b-63d4-4bd0-909d-c9176b8653ba" alt="Kruxhna" height="35" width="40" /></a>
+<a href="https://hashnode.com/@Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2d166ee5-82a3-4126-a792-19971aa9cf5d" alt="Kruxhna" height="37" width="37" /></a>
+<a href="https://youtube.com/@Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/f92db1c0-cda8-4743-b503-74a6046760d5" alt="Kruxhna" height="31" width="36" /></a>
+<a href="https://codepen.io/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/cd0a5b6d-d49e-4692-9d2b-64c707a1da43" alt="Kruxhna" height="35" width="30" /></a>
+<a href="https://www.behance.net/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/50b49a31-c664-4eab-b5fe-a7851bb6fb56" alt="Kruxhna" height="35" width="35" /></a>
+<a href="https://leetcode.com/u/Kruxhna/" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/1c1379a6-bd9f-408b-8022-150feba20f0d" alt="Kruxhna" height="40" width="45" /></a>
+<a href="https://www.codechef.com/users/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/df7ff386-c528-474c-b4f5-7773354f5721" alt="Kruxhna" height="40" width="45" /></a>
+<a href="https://www.hackerrank.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/be572503-603a-4252-9bf1-4248bb1951d5" alt="Kruxhna" height="42" width="42" /></a>
+<a href="https://kaggle.com/Kruxhna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kruxhna" height="30" width="40" /></a>
+<a href="https://dribbble.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/2714b8cb-9f27-48bf-a91f-e0873f6f1544" alt="Kruxhna" height="40" width="40" /></a>
 
-<a href="https://x.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/5941e48d-c5fe-44c6-a1e0-58555a66f548" alt="ysathyasai" height="40" width="40" /></a>
-<a href="https://instagram.com/ysathyasai" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ysathyasai" height="30" width="40" /></a>
-<a href="https://facebook.com/ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/001b50ee-6741-4dae-b1cb-89d4bf8deadc" alt="ysathyasai" height="45" width="50" /></a>
-<a href="https://reddit.com/user/y_sathya_sai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48b8da98-74e0-4e90-b8c3-117f7894e72c" alt="y_sathya_sai" height="30" width="30" /></a>
-<a href="https://discord.com/users/1271371075799744535" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a52ee56a-0ae1-4a30-82ef-19797844f46e" alt="ysathyasai" height="50" width="55" /></a>
-<a href="https://mastodon.social/@ysathyasai" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/7cf78cfd-bd77-40e6-9cfe-96b9365e2cc4" alt="ysathyasai" height="30" width="35" /></a>
-<a href="https://bsky.app/profile/ysathyasai.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a56711cb-edd8-40a4-a7e8-1d1868faaf96" alt="ysathyasai" height="33" width="38" /></a>
+<a href="https://x.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/5941e48d-c5fe-44c6-a1e0-58555a66f548" alt="Kruxhna" height="40" width="40" /></a>
+<a href="https://instagram.com/Kruxhna" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kruxhna" height="30" width="40" /></a>
+<a href="https://facebook.com/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/001b50ee-6741-4dae-b1cb-89d4bf8deadc" alt="Kruxhna" height="45" width="50" /></a>
+<a href="https://reddit.com/user/Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/48b8da98-74e0-4e90-b8c3-117f7894e72c" alt="Kruxhna" height="30" width="30" /></a>
+<a href="https://discord.com/users/1271371075799744535" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a52ee56a-0ae1-4a30-82ef-19797844f46e" alt="Kruxhna" height="50" width="55" /></a>
+<a href="https://mastodon.social/@Kruxhna" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/7cf78cfd-bd77-40e6-9cfe-96b9365e2cc4" alt="Kruxhna" height="30" width="35" /></a>
+<a href="https://bsky.app/profile/Kruxhna.bsky.social" target="_blank"><img align="center" src="https://github.com/user-attachments/assets/a56711cb-edd8-40a4-a7e8-1d1868faaf96" alt="Kruxhna" height="33" width="38" /></a>
 </div>
 
 <h1><img src="https://github.com/user-attachments/assets/b3b64835-04c7-4e1b-ac12-d5eb0d6a47be" width="32px"> Tech Stack:</h1>
@@ -114,12 +114,12 @@ ysathyasai.dev@gmail.com
   <a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=ysathyasai&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=Kruxhna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats-fast.vercel.app/api?username=ysathyasai&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=Kruxhna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=ysathyasai&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Kruxhna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
       </picture>
     </a>
   <br/>
@@ -129,12 +129,12 @@ ysathyasai.dev@gmail.com
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ysathyasai&show_icons=true&hide_border=false&border_color=ffffff&count_private=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_title=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Kruxhna&show_icons=true&hide_border=false&border_color=ffffff&count_private=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_title=true"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=ysathyasai&show_icons=true&hide_border=false&border_color=ffffff&count_private=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_title=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Kruxhna&show_icons=true&hide_border=false&border_color=ffffff&count_private=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_title=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ysathyasai&show_icons=true&hide_border=false&border_color=ffffff&count_private=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_title=true" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kruxhna&show_icons=true&hide_border=false&border_color=ffffff&count_private=true&include_all_commits=true&number_format=long&theme=tokyonight&hide_title=true" height="100%" />
   </picture>
 </a>
 </td>
@@ -142,12 +142,12 @@ ysathyasai.dev@gmail.com
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=ysathyasai&theme=tokyonight&hide_border=false&border=ffffff"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kruxhna&theme=tokyonight&hide_border=false&border=ffffff"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=ysathyasai&theme=tokyonight&hide_border=false&border=ffffff"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Kruxhna&theme=tokyonight&hide_border=false&border=ffffff"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ysathyasai&theme=tokyonight&hide_border=false&border=ffffff" height="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kruxhna&theme=tokyonight&hide_border=false&border=ffffff" height="100%" />
   </picture>
 </a>
   <br/>
@@ -179,30 +179,30 @@ ysathyasai.dev@gmail.com
 <h1 align="center">
 
   <!-- Buy Me a Coffee -->
-  <a href="https://buymeacoffee.com/ysathyasai" target="_blank">
+  <a href="https://buymeacoffee.com/Kruxhna" target="_blank">
     <img src="https://github.com/user-attachments/assets/a0e89abe-79a2-453a-bc9d-b7a11c0958e5" alt="Buy Me a Coffee" width="100" />
 
 
   <!-- Patreon -->
-  <a href="https://patreon.com/YejjuSathyaSai" target="_blank">
+  <a href="https://patreon.com/Kruxhna" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Support me on Patreon" />
   </a>
 </h1>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ysathyasai/ysathyasai/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kruxhna/Kruxhna/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kruxhna/Kruxhna/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kruxhna/Kruxhna/output/github-snake.svg" />
 </picture>
 
 <h2><img src="https://github.com/user-attachments/assets/2a8442f7-6660-4671-8d55-6f89ef9fb37d" width="32px"> A Little Brain Teaser:</h2>
 
-If you've made it this far, here's something [special](https://gist.github.com/ysathyasai/4791099196b95935e18c8752e4346fb5) for the curious minds or even [this](https://gist.github.com/ysathyasai/8b0ef6dcc56565adaacabc3984731300.js) if you don't have a life 🧠
+If you've made it this far, here's something [special](https://gist.github.com/Kruxhna/4791099196b95935e18c8752e4346fb5) for the curious minds or even [this](https://gist.github.com/Kruxhna/8b0ef6dcc56565adaacabc3984731300.js) if you don't have a life 🧠
 
 
 
-<h2 align="center"><a href="https://github.com/ysathyasai">
-   <img src="https://komarev.com/ghpvc/?username=ysathyasai">
+<h2 align="center"><a href="https://github.com/Kruxhna">
+   <img src="https://komarev.com/ghpvc/?username=Kruxhna">
 </a> <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 </h2>
 
@@ -210,6 +210,6 @@ If you've made it this far, here's something [special](https://gist.github.com/y
 
 
 <!---
-ysathyasai/ysathyasai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kruxhna/Kruxhna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
