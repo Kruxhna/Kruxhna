@@ -11,7 +11,7 @@ Hey, My Name is ```Krushna Nole```. I'm a BE CSE student specializing in AIML <i
 <h1><img src="https://github.com/user-attachments/assets/8298354a-bf7b-47b9-8029-d0539b190553" width="32px"> About Me:</h1>
 🚀 I'm a BE CSE student specializing in AIML and a passionate tech enthusiast.
 <img align='right' src="https://github.com/user-attachments/assets/39d3f182-59c8-4b46-8333-7c67b47e6b3b" width="225">
-<br>🔍 Currently sharpening my skills in Python, Deep Learning, and Data Structures.
+<br>🔍Currently focused on building Bodhi—a gamified aptitude platform—deepening my ML expertise, and architecting AeroMesh, a project that enables local LLM execution across distributed interfaces.
 <br>💻 I love building data-driven AI solutions and exploring new technologies.
 <br>🌐 I'm working on ML models, AI-powered applications and constantly updating my skills.
 <br>📚 Passionate about Artificial Intelligence, Data Science, and solving real-world problems.
